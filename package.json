@@ -1,12 +1,12 @@
 {
-  "name": "camilla-delfino-site",
+  "name": "camilla-delfino",
   "version": "1.0.0",
-  "description": "Sito personale Camilla Delfino",
+  "description": "Camilla Delfino - Biologa Nutrizionista",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-    "express": "^4.18.2"
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
